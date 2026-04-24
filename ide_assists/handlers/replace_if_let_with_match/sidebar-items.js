@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["and_bin_expr_left","binds_name","is_empty_expr","is_sad_pat","let_and_guard","make_else_arm","match_scrutinee_needs_paren","pick_pattern_and_expr_order","replace_if_let_with_match","replace_match_with_if_let"]};
